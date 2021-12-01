@@ -1,0 +1,7 @@
+create an app to provide user recomandation of movies based on likes and dislikes, popular movies etc.
+ screen1 :-
+ take user input on the type of movie user likes.
+ three button for likes,dislikes,not-watched.
+
+screen2 :-
+(liked,dislikes,not-watched) movies.
